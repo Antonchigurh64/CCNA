@@ -21,6 +21,10 @@ Learn how to use Cisco Packet Tracer by recreating a simple enterprise network t
 - Servers
 - Laptop (Attacker)
 
+## Network Topology
+
+![Network Topology](01-topology.PNG)
+
 ## Skills Learned
 
 - Cisco Packet Tracer basics
